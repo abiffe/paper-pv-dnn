@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Di Renzo, André Biffe
+AU  - de Morais, Héber Renato Fadel
+AU  - Lazzaretti, André Eugenio
+AU  - de Arruda, Lúcia Valéria Ramos
+AU  - Lopes, Heitor Silvério
+AU  - Martelli, Cicero
+AU  - da Silva, Jean Carlos Cardozo
+PY  - 2024
+DA  - 2024/08/05
+TI  - Edge Device for the Classification of Photovoltaic Faults Using Deep Neural Networks
+JO  - Journal of Control, Automation and Electrical Systems
+AB  - The use of photovoltaic panels for sustainable electricity generation is increasing worldwide. Hence, large solar power plants must be monitored to find defects quickly and easily, avoiding prolonged interruptions in electricity generation. The present study aims to analyse the incorporation of transfer learning in convolutional neural network models to classify defects in visible spectral images of solar panels. Deep learning with convolutional neural networks is known for their precise classification of images, but they need a significant volume of images and training time. Transfer learning is intended to help the training process become faster and more precise. In addition, a publicly available image dataset was constructed using 36,000 images containing three classes of defects and a class without defects to evaluate tested network models. In this study, 17 networks were tested as potential classification models. The best network exhibited an accuracy higher than 99%. This accuracy was obtained with the MobileNetV3 network, which was optimised with Nvidia Tensor RT to run on an edge device with low power consumption and low weight, enabling the real-time classification of the defects presented in this study and allowing the classification of an image in an average of 50 ms. This approach has yet to be explored in the literature, and this paper aims to contribute to this discussion. The presented work has the limitation of not making image segmentation, where the image obtained by the camera is directly classified. From experiments with a large dataset close to an in-field solar plant inspection, trained models successfully classified the defined classes. These findings help solar plant operation and maintenance teams make quick and accurate decisions about scheduled maintenance.
+SN  - 2195-3899
+UR  - https://doi.org/10.1007/s40313-024-01116-7
+DO  - 10.1007/s40313-024-01116-7
+ID  - Di Renzo2024
+ER  - 
